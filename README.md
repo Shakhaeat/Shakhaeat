@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shakhaeat
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Golang and Angular
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development and mobile application
+- 🌱 I’m currently learning React JS
 - 📫 mdshakhaeathossanin246@gmail.com  +8801684981255
 
 <!---
