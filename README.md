@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shakhaeat
 - 👀 I’m interested in web development and mobile application
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Flutter
 - 📫 mdshakhaeathossanin246@gmail.com  +8801684981255
 
 <!---
